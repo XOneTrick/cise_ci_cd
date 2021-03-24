@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+// eslint-disable-next-line no-unused-vars
 import logo from "./logo.svg";
 import "./App.css";
-=======
 import React, { Component } from "react";
 class App extends Component {
   constructor() {
@@ -15,7 +14,6 @@ class App extends Component {
       count: prevState.count + amount,
     }));
   increment = this.makeIncrementer(1);
->>>>>>> Develop
 
   render() {
     return (
