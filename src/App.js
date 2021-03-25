@@ -1,5 +1,4 @@
-// eslint-disable-next-line no-unused-vars
-import logo from "./logo.svg";
+import logo from "./logo192.svg";
 import "./App.css";
 import React, { Component } from "react";
 class App extends Component {
